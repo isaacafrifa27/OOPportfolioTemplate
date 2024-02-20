@@ -1,7 +1,7 @@
 
 # OOP 2024 Portfolio
-## Your Name
-### Your Group
+## Isaac Afrifa
+### CS4A
 ### Your Tutor
 
 
@@ -9,26 +9,26 @@
 ## Work Schedule
 **1 Getting Started**\
 **committed by 5th February**\
-1 Hello World        -- to do\
-2 Test               -- to do\
-3 Personal Details   -- to do\
-4 Diamonds           -- to do\
-5 Questions          -- to do
+1 Hello World        -- Completed\
+2 Test               -- Completed\
+3 Personal Details   -- Completed\
+4 Diamonds           -- Completed\
+5 Questions          -- Completed
 
 **2 Data and Expressions**\
 **committed by 19th February**\
-1 Table of Student Grades  -- to do\
-2 Computing Averages       -- to do\
-3 Miles to Kilometers      -- to do\
-4 Square Calculation       -- to do\
-5 Fraction -- to do        -- to do
+1 Table of Student Grades  -- Completed\
+2 Computing Averages       -- Completed\
+3 Miles to Kilometers      -- Completed\
+4 Square Calculation       -- Completed\
+5 Fraction -- to do        -- Completed
 
 **3 Selection and Iteration**\
 **committed by 26th February**\
-1 Computing a Pay Increase   -- to do\
-2 Rock, Paper, Scissors      -- to do\
-3 String Reverser            -- to do\
-4 Punctuation Marks          -- to do
+1 Computing a Pay Increase   -- Completed\
+2 Rock, Paper, Scissors      -- Completed\
+3 String Reverser            -- Completed\
+4 Punctuation Marks          -- Completed
 
 **4 Classes and Objects**\
 **committed by 4th March**\
