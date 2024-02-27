@@ -3,10 +3,10 @@ import java.text.NumberFormat;
 
 public class Salary {
     public static void main(String[] args) {
-     double currentSalary; // employee's current salary
-     double raise = 0;     // amount of the raise
-     double newSalary;     // new salary for the employee
-     String ratings;       // performance ratings
+     double currentSalary;
+     double raise = 0;
+     double newSalary;
+     String ratings;
 
      Scanner scan = new Scanner(System.in);
 

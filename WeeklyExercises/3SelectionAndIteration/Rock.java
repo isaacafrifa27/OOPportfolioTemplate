@@ -2,16 +2,16 @@ import java.util.Scanner;
 import java.util.Random;
 public class Rock {
     public static void main(String[] args) {
-        String personPlay;   // User's play -- "R", "P", or "S"
-        String computerPlay; // Computer's play -- "R", "P", or "S"
-        int computerInt;     // Randomly generated numbers used to determine computer's play
+        String personPlay;
+        String computerPlay;
+        int computerInt;
 
         Scanner scan = new Scanner(System.in);
         Random generator = new Random();
 
 
         System.out.print("Enter your play (R, P, or S): ");
-        personPlay = scan.next().toUpperCase(); // Make player's play uppercase for ease of comparison
+        personPlay = scan.next().toUpperCase();
 
 
         computerInt = generator.nextInt(3);
