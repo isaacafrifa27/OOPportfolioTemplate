@@ -40,11 +40,11 @@
 
 **5 and 6 Writing Classes and Methods**\
 **committed by 18th March**\
-1 Sphere       -- to do\
-2 Books        -- to do\
-3 Bulb         -- to do\
-4 Accounts     -- to do\
-5 Cards        -- to do
+1 Sphere       -- Completed\
+2 Books        -- Completed\
+3 Bulb         -- Completed\
+4 Accounts     -- Completed\
+5 Cards        -- Completed
 
 **7 Inheritance**\
 **committed by 8th April**\
