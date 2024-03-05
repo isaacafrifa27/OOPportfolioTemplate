@@ -32,11 +32,11 @@
 
 **4 Classes and Objects**\
 **committed by 4th March**\
-1 Using String Objects     -- to do\
-2 Dice                     -- to do\
-3 Formatting Output        -- to do\
-4 Pin Encryption           -- to do\
-5 Sphere Calculation       -- to do
+1 Using String Objects     -- Completed\
+2 Dice                     -- Completed\
+3 Formatting Output        -- Completed\
+4 Pin Encryption           -- Completed\
+5 Sphere Calculation       -- Completed
 
 **5 and 6 Writing Classes and Methods**\
 **committed by 18th March**\
